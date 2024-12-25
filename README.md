@@ -65,7 +65,10 @@ endmodule
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+![logic diagram 12 png](https://github.com/user-attachments/assets/1125aa76-ebdc-4cd0-901e-79271f94a946)
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+![RTL 12 png](https://github.com/user-attachments/assets/1ad97090-b977-4048-b65d-f3e5bc99b2ae)
 
 **RESULTS**
+4-Bit ripple counter and validate functionality is studied and verified.
