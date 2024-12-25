@@ -61,7 +61,11 @@ module ripple (
         end
     endgenerate
 endmodule
- Developed by: RegisterNumber:
+
+ Developed by:Hemalatha.A
+ 
+ RegisterNumber:24900150
+ 
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
